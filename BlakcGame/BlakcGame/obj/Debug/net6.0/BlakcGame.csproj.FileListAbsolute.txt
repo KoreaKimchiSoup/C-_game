@@ -1,0 +1,15 @@
+C:\Users\akehrn13\Documents\C-_game\BlakcGame\BlakcGame\bin\Debug\net6.0\BlakcGame.exe
+C:\Users\akehrn13\Documents\C-_game\BlakcGame\BlakcGame\bin\Debug\net6.0\BlakcGame.deps.json
+C:\Users\akehrn13\Documents\C-_game\BlakcGame\BlakcGame\bin\Debug\net6.0\BlakcGame.runtimeconfig.json
+C:\Users\akehrn13\Documents\C-_game\BlakcGame\BlakcGame\bin\Debug\net6.0\BlakcGame.dll
+C:\Users\akehrn13\Documents\C-_game\BlakcGame\BlakcGame\bin\Debug\net6.0\BlakcGame.pdb
+C:\Users\akehrn13\Documents\C-_game\BlakcGame\BlakcGame\obj\Debug\net6.0\BlakcGame.csproj.AssemblyReference.cache
+C:\Users\akehrn13\Documents\C-_game\BlakcGame\BlakcGame\obj\Debug\net6.0\BlakcGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akehrn13\Documents\C-_game\BlakcGame\BlakcGame\obj\Debug\net6.0\BlakcGame.AssemblyInfoInputs.cache
+C:\Users\akehrn13\Documents\C-_game\BlakcGame\BlakcGame\obj\Debug\net6.0\BlakcGame.AssemblyInfo.cs
+C:\Users\akehrn13\Documents\C-_game\BlakcGame\BlakcGame\obj\Debug\net6.0\BlakcGame.csproj.CoreCompileInputs.cache
+C:\Users\akehrn13\Documents\C-_game\BlakcGame\BlakcGame\obj\Debug\net6.0\BlakcGame.dll
+C:\Users\akehrn13\Documents\C-_game\BlakcGame\BlakcGame\obj\Debug\net6.0\refint\BlakcGame.dll
+C:\Users\akehrn13\Documents\C-_game\BlakcGame\BlakcGame\obj\Debug\net6.0\BlakcGame.pdb
+C:\Users\akehrn13\Documents\C-_game\BlakcGame\BlakcGame\obj\Debug\net6.0\BlakcGame.genruntimeconfig.cache
+C:\Users\akehrn13\Documents\C-_game\BlakcGame\BlakcGame\obj\Debug\net6.0\ref\BlakcGame.dll
