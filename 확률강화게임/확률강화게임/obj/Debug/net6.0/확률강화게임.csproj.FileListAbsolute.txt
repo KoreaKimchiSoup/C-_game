@@ -1,0 +1,15 @@
+C:\Users\akehrn13\Documents\C-_game\확률강화게임\확률강화게임\bin\Debug\net6.0\확률강화게임.exe
+C:\Users\akehrn13\Documents\C-_game\확률강화게임\확률강화게임\bin\Debug\net6.0\확률강화게임.deps.json
+C:\Users\akehrn13\Documents\C-_game\확률강화게임\확률강화게임\bin\Debug\net6.0\확률강화게임.runtimeconfig.json
+C:\Users\akehrn13\Documents\C-_game\확률강화게임\확률강화게임\bin\Debug\net6.0\확률강화게임.dll
+C:\Users\akehrn13\Documents\C-_game\확률강화게임\확률강화게임\bin\Debug\net6.0\확률강화게임.pdb
+C:\Users\akehrn13\Documents\C-_game\확률강화게임\확률강화게임\obj\Debug\net6.0\확률강화게임.csproj.AssemblyReference.cache
+C:\Users\akehrn13\Documents\C-_game\확률강화게임\확률강화게임\obj\Debug\net6.0\확률강화게임.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akehrn13\Documents\C-_game\확률강화게임\확률강화게임\obj\Debug\net6.0\확률강화게임.AssemblyInfoInputs.cache
+C:\Users\akehrn13\Documents\C-_game\확률강화게임\확률강화게임\obj\Debug\net6.0\확률강화게임.AssemblyInfo.cs
+C:\Users\akehrn13\Documents\C-_game\확률강화게임\확률강화게임\obj\Debug\net6.0\확률강화게임.csproj.CoreCompileInputs.cache
+C:\Users\akehrn13\Documents\C-_game\확률강화게임\확률강화게임\obj\Debug\net6.0\확률강화게임.dll
+C:\Users\akehrn13\Documents\C-_game\확률강화게임\확률강화게임\obj\Debug\net6.0\refint\확률강화게임.dll
+C:\Users\akehrn13\Documents\C-_game\확률강화게임\확률강화게임\obj\Debug\net6.0\확률강화게임.pdb
+C:\Users\akehrn13\Documents\C-_game\확률강화게임\확률강화게임\obj\Debug\net6.0\확률강화게임.genruntimeconfig.cache
+C:\Users\akehrn13\Documents\C-_game\확률강화게임\확률강화게임\obj\Debug\net6.0\ref\확률강화게임.dll
